@@ -2,6 +2,7 @@
 Inject custom dll to process and execute function remotely.
 
 Execute Payload Function With Args:
-<Payload Path> <Process Name> <Payload Function> <PayloadArgs>
-Example:
-C:\payload.dll notepad injectString "my string"
+<br/>
+<Payload Path> <Process Name> <Payload Function> <PayloadArgs><br/>
+Example:<br/>
+C:\payload.dll notepad injectString "my string"<br/>
