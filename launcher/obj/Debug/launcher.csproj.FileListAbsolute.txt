@@ -1,6 +1,0 @@
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\bin\Debug\launcher.exe.config
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\bin\Debug\launcher.exe
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\bin\Debug\launcher.pdb
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\obj\Debug\launcher.exe
-C:\Users\proxytype\Desktop\InjectorCallback\launcher\obj\Debug\launcher.pdb
